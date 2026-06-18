@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Mixing Station
+Comment=Controle universal para Mesas de Som Digitais
+Exec=/opt/mixing-station/mixing-station
+Icon=audio-card
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;
